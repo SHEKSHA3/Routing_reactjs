@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flexbox;
+
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 1.3rem;
+    
+  }
+ 
+  
+  .nav-link {
+    color: #333;
+    font-weight: 400;
+  }
+  
+  .nav-link:hover
+   {
+    color: #fa3434;
+  }
+  .nav-link:visited{
+    color: rgb(20, 21, 24);
+  }
+  
+  .home-icon {
+    color: #6b6565;
+    display: inline;
+  }
+  .image{
+    height: 30px;
+    width: fit-content;
+}
+  
